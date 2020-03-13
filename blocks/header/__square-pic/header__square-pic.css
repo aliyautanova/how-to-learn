@@ -6,6 +6,9 @@
     top: 64px;
     right: 0px;
     z-index: 0;
+    -webkit-transform: rotate(-15deg);
+      -ms-transform: rotate(-15deg);
     transform: rotate(-15deg);
+    -webkit-animation: rotation 20s ease-in-out infinite;
     animation: rotation 20s ease-in-out infinite;
 }

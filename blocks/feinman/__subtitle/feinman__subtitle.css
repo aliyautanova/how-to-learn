@@ -1,8 +1,10 @@
 .feinman__subtitle{
-    margin-top: 70px;
-    align-self: center;
-    text-align: center;
-    line-height: 51px;
-    font-size: 36px;
-    z-index: 3;
+  margin-top: 70px;
+  -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+      align-self: center;
+  text-align: center;
+  line-height: 51px;
+  font-size: 36px;
+  z-index: 3;
   }

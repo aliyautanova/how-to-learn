@@ -1,7 +1,11 @@
 .oakley{
-    background-color: #F2F2F2;
-    padding-top: 160px;
-    padding-bottom: 80px;
-    display: flex;
-    justify-content: center;
+  background-color: #F2F2F2;
+  padding-top: 160px;
+  padding-bottom: 80px;
+  display: -webkit-box;
+    display: -ms-flexbox;
+      display: flex;
+  -webkit-box-pack: center;
+    -ms-flex-pack: center;
+      justify-content: center;
   }

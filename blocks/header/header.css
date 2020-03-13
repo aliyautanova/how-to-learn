@@ -8,6 +8,8 @@
     position: relative;
     overflow: hidden;
     background-color: #F2F2F2;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     height: 100vh;
     min-height: 600px;

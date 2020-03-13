@@ -4,6 +4,9 @@
     height: 877px;
     margin-top: 0;
     right: -210px;
-    transform: rotate(360deg);
-    animation: rotation 20s ease-in-out infinite;
+    -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+    -webkit-animation: rotation 20s ease-in-out infinite;
+            animation: rotation 20s ease-in-out infinite;
     }
